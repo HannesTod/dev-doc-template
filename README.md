@@ -10,4 +10,4 @@ Build static documentation with mkdocs build, serve for debugging with mkdocs se
 ## Contents
 
 * Architecture Documentation using arc42 template
-* Security Self-Assessment using template based on "The Linux Foundation" - "Security Self-Assessments for Open Source projects LFEL(1005)"
+* Security Self-Assessment using template based on ["The Linux Foundation"](https://www.linuxfoundation.org/) - ["Security Self-Assessments for Open Source projects LFEL(1005)"](https://training.linuxfoundation.org/express-learning/security-self-assessments-for-open-source-projects-lfel1005/)
