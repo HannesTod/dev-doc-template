@@ -18,7 +18,7 @@ Build static documentation with mkdocs build, serve for debugging with mkdocs se
 
 Link to the license: https://arc42.org/license
 
-### ["The Linux Foundation"](https://www.linuxfoundation.org/) - ["Security Self-Assessments for Open Source projects LFEL(1005)"](https://training.linuxfoundation.org/express-learning/security-self-assessments-for-open-source-projects-lfel1005/)
+### Security Self-Assessments for Open Source projects LFEL(1005)
 
 Copyright 2023, The Linux Foundation. All rights reserved.
 
