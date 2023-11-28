@@ -1,0 +1,50 @@
+site_name: nostalgia  - Development Documentation
+
+nav:
+  - Home:
+    - Getting Started: index.md
+  - Architecture:
+    - arch/0_overview.md
+    - arch/1_introduction.md
+    - arch/2_constraints.md
+    - arch/3_context_and_scope.md
+    - arch/4_solution_strategy.md
+    - arch/5_building_block_view.md
+    - arch/6_runtime_view.md
+    - arch/7_deployment_view.md
+    - arch/8_crosscutting_concepts.md
+    - arch/9_architecture_decisions.md
+    - arch/10_quality_requirements.md
+    - arch/11_risks_and_technical_debt.md
+    - arch/12_glossary.md
+  - Security:
+    - security/0_home.md
+    - security/1_metadata.md
+    - security/2_overview.md
+    - security/3_self-assessment_use.md
+    - security/4_security_functions_and_features.md
+    - security/5_project_compliance.md
+    - security/6_secure_development_practices.md
+    - security/7_security_issue_resolution.md
+    - security/8_appendix.md
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - navigation.instant.progress
+
+extra_css: [specific.css]
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: "#"
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
