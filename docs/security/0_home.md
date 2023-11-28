@@ -1,6 +1,6 @@
 # Security Self-Assessment
 
-Security reviewers: Hannes Todenhagen
+Security reviewers: tbd
 
 This document is intended to aid in roadmapping, and the onboarding of new maintainers.
 
